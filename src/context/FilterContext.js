@@ -1,5 +1,5 @@
 import React, { createContext, useEffect, useState } from 'react';
-import { all_products } from '../lista_produtos';
+import { all_products } from '../data/products';
 
 export const FilterContext = createContext();
 
