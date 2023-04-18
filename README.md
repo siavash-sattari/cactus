@@ -14,7 +14,7 @@ The website was made mainly, for the practice of hooks like useContext and useRe
 
 ## How to test?
 
-You can access the project here : 
+You can access the project here : <a href="https://cactus-flower-shop.netlify.app/" target="_blank">**Live Demo**</a>
 
 Or run on your machine :
 
